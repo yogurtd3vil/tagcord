@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="Lista de TAGs Discord">
+    <meta name="description" content="Lista completa de tags de guildas do Discord em um só lugar">
+    <meta name="keywords" content="Discord, tags, guildas, servidores, Discord tags">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="Portuguese">
+    <meta name="theme-color" content="#5865f2">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://discord-tags.com">
+    <meta property="og:title" content="❤️ Lista de TAGs Discord">
+    <meta property="og:description" content="esta caçando as tags? você achou o lugar perfeito, veja a lista de todas as tags disponíveis!">
+    <meta property="og:image" content="https://media.discordapp.net/attachments/1364267628331274361/1364267652608168078/xuxu.png?ex=68090cc3&is=6807bb43&hm=ac92e54e4d5a3939f9f648d889dc5be5d33edb76bd50e22c8c0586f57e960ed7&=&format=webp&quality=lossless&width=816&height=544">
+    <meta property="og:site_name" content="Discord Tags">
+    <meta property="og:locale" content="pt_BR">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Lista de TAGs Discord">
+    <meta name="twitter:description" content="esta caçando as tags? você achou o lugar perfeito, veja a lista de todas as tags disponíveis!">
+    <meta name="twitter:image" content="https://media.discordapp.net/attachments/1364267628331274361/1364267652608168078/xuxu.png?ex=68090cc3&is=6807bb43&hm=ac92e54e4d5a3939f9f648d889dc5be5d33edb76bd50e22c8c0586f57e960ed7&=&format=webp&quality=lossless&width=816&height=544">
+    <title>Lista de TAGs Discord</title>
+    <link rel="icon" type="image/png" href="https://media.discordapp.net/attachments/1364267628331274361/1364267652608168078/xuxu.png?ex=68090cc3&is=6807bb43&hm=ac92e54e4d5a3939f9f648d889dc5be5d33edb76bd50e22c8c0586f57e960ed7&=&format=webp&quality=lossless&width=816&height=544">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo-container">
+                    <img src="https://www.svgrepo.com/show/494743/discord.svg" alt="Discord Logo" class="logo">
+                </div>
+                <div class="header-text">
+                    <h1>🎯 Lista Completa de Tags para Discord</h1>
+                    <p>Encontre todas as tags de guildas reunidas em um só lugar, prontas para usar!</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <section class="info-section">
+                <p>
+                    📩 As Tags de Servidor Estão de Volta!<br>
+                    Disponíveis, por enquanto, apenas para alguns servidores selecionados. 
+                    Confira abaixo a lista completa de tags liberadas:
+                </p>
+
+                <div class="preview-container" onclick="openModal()">
+                    <img src="image.png" alt="Discord Tags Preview" class="preview-image">
+                    <div class="preview-overlay">
+                        <span class="preview-button">Visualizar</span>
+                    </div>
+                </div>
+
+                <div class="tags-grid">
+                </div>
+            </section>
+
+            <section class="info-section">
+                <p>⭐ Esta página está sempre atualizada!
+                    Novas TAGs, mudanças de nomes, links renovados e outras novidades chegam aqui primeiro.</p>
+                <p>🔥 Encontrou uma TAG nova ou algum erro? Mande no Discord: <a href="https://github.com/yogurtd3vil" class="link">@y9x</a> – toda ajuda é bem-vinda!</p>
+                <p>❤️ Obrigado a todos que contribuem com TAGs, correções e sugestões.</p>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <img src="https://i.postimg.cc/WpJx8sMC/1744983153210.png" alt="Discord Logo" class="footer-logo">
+                    <p>© 2025 Tagcord</p>
+                </div>
+                
+                <div class="footer-social">
+                    <a href="https://github.com/yogurtd3vil" target="_blank" rel="noopener noreferrer" class="social-link">
+                        <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.344.0/icons/github.svg" alt="GitHub">
+                    </a>
+                    <a href="https://twitter.com/gozopink" target="_blank" rel="noopener noreferrer" class="social-link">
+                        <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.344.0/icons/twitter.svg" alt="Twitter">
+                    </a>
+                    <a href="https://discord.gg/8MTjvKeGkd" target="_blank" rel="noopener noreferrer" class="social-link">
+                        <img src="https://api.iconify.design/simple-icons:discord.svg?color=white" alt="Discord" class="discord-icon">
+                    </a>
+                </div>
+
+                <div class="footer-credit">
+                    <span>Dev</span>
+                    <a href="https://github.com/yogurtd3vil" class="link">@yogurtd3vil</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div id="imageModal" class="modal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">
+                <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.344.0/icons/x.svg" alt="Close">
+            </button>
+            <img src="https://i.postimg.cc/7PmJByw1/1744984014851.png" alt="Discord Tags Full Preview" class="modal-image">
+        </div>
+    </div>
+
+    <div id="serverNotice" class="server-notice">
+        <div class="server-notice-header">
+            <div class="server-notice-content">
+                Entre no nosso servidor!
+            </div>
+            <button class="server-notice-close" onclick="closeNotice()">
+                <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.344.0/icons/x.svg" alt="Close">
+            </button>
+        </div>
+        <a href="https://discord.gg/8MTjvKeGkd" target="_blank" rel="noopener noreferrer" class="server-notice-button">
+            <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.344.0/icons/external-link.svg" alt="Join">
+            Entrar no Servidor
+        </a>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
