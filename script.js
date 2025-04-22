@@ -1,11 +1,5 @@
 const discordTags = [
     {
-        name: "CDO",
-        code: "CDO",
-        iconUrl: "https://cdn.discordapp.com/clan-badges/786437953299021844/856cecbf8055036b98cf05fd54cd8872.png?size=16",
-        discordUrl: "https://discord.gg/cdo"
-    },
-    {
         name: "EZ (anteriormente VIL)",
         code: "EZ",
         iconUrl: "https://cdn.discordapp.com/clan-badges/986691543102529546/30cf2044673b03805a9c915fa409d6fb.png?size=16",
