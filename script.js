@@ -186,10 +186,16 @@ const discordTags = [
     discordUrl: "https://discord.gg/cbDFf4PfR3"
   },
   {
-    name: "PIX",
-    code: "PIX",
-    iconUrl: "https://cdn.discordapp.com/clan-badges/1369730204192473188/95e1a9b6e8409c41acc70f33157892dc.png?size=16",
-    discordUrl: "https://discord.com/invite/polarguild"
+    name: "GTA6",
+    code: "GTA6",
+    iconUrl: "https://cdn.discordapp.com/clan-badges/1369437835920146432/177596f6288d06c53d9057d948d40da2.png?size=16",
+    discordUrl: "https://discord.gg/yPHgHKmW4y"
+  },
+  {
+    name: "GTA6",
+    code: "GTA6",
+    iconUrl: "https://cdn.discordapp.com/clan-badges/1369437835920146432/177596f6288d06c53d9057d948d40da2.png?size=16",
+    discordUrl: "https://discord.gg/yPHgHKmW4y"
   },
   {
     name: "CAT",
