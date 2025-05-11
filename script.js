@@ -6,12 +6,6 @@ const discordTags = [
       discordUrl: "https://discord.gg/XcwcSzDCNx"
   },
   {
-      name: "HNY",
-      code: "HNY",
-      iconUrl: "https://cdn.discordapp.com/clan-badges/1369625793810141205/bdf7998de2b7f8d2153aa572b8cf2e82.png?size=16",
-      discordUrl: "https://discord.gg/XcwcSzDCNx"
-  },
-  {
       name: "EZ (anteriormente VIL)",
       code: "EZ",
       iconUrl: "https://cdn.discordapp.com/clan-badges/986691543102529546/30cf2044673b03805a9c915fa409d6fb.png?size=16",
@@ -183,6 +177,18 @@ const discordTags = [
     name: "POLR",
     code: "POLR",
     iconUrl: "https://cdn.discordapp.com/clan-badges/893209079021981718/a8ec88e357638d2381f7a117b4a4d839.png?size=16",
+    discordUrl: "https://discord.com/invite/polarguild"
+  },
+  {
+    name: "PIX",
+    code: "PIX",
+    iconUrl: "https://cdn.discordapp.com/clan-badges/1369730204192473188/95e1a9b6e8409c41acc70f33157892dc.png?size=16",
+    discordUrl: "https://discord.gg/cbDFf4PfR3"
+  },
+  {
+    name: "PIX",
+    code: "PIX",
+    iconUrl: "https://cdn.discordapp.com/clan-badges/1369730204192473188/95e1a9b6e8409c41acc70f33157892dc.png?size=16",
     discordUrl: "https://discord.com/invite/polarguild"
   },
   {
