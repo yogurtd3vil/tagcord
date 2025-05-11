@@ -1,5 +1,17 @@
 const discordTags = [
   {
+      name: "HNY",
+      code: "HNY",
+      iconUrl: "https://cdn.discordapp.com/clan-badges/1369625793810141205/bdf7998de2b7f8d2153aa572b8cf2e82.png?size=16",
+      discordUrl: "https://discord.gg/XcwcSzDCNx"
+  },
+  {
+      name: "HNY",
+      code: "HNY",
+      iconUrl: "https://cdn.discordapp.com/clan-badges/1369625793810141205/bdf7998de2b7f8d2153aa572b8cf2e82.png?size=16",
+      discordUrl: "https://discord.gg/XcwcSzDCNx"
+  },
+  {
       name: "EZ (anteriormente VIL)",
       code: "EZ",
       iconUrl: "https://cdn.discordapp.com/clan-badges/986691543102529546/30cf2044673b03805a9c915fa409d6fb.png?size=16",
