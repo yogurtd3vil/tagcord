@@ -192,10 +192,10 @@ const discordTags = [
     discordUrl: "https://discord.gg/yPHgHKmW4y"
   },
   {
-    name: "GTA6",
-    code: "GTA6",
-    iconUrl: "https://cdn.discordapp.com/clan-badges/1369437835920146432/177596f6288d06c53d9057d948d40da2.png?size=16",
-    discordUrl: "https://discord.gg/yPHgHKmW4y"
+    name: ".PNG",
+    code: ".PNG",
+    iconUrl: "https://cdn.discordapp.com/clan-badges/1369386717567778967/4f25524787fd4a78abbe4cf889599ea7.png?size=16",
+    discordUrl: "https://discord.gg/URk2bDkgrP"
   },
   {
     name: "CAT",
