@@ -198,6 +198,36 @@ const discordTags = [
     discordUrl: "https://discord.gg/URk2bDkgrP"
   },
   {
+    name: "BMW",
+    code: "BMW",
+    iconUrl: "https://cdn.discordapp.com/clan-badges/1196951653509775481/fe65728bfca0e8ee2d7b4b95ccce38e5.png?size=16",
+    discordUrl: "https://discord.gg/bmwlovers"
+  },
+  {
+    name: "PVZ",
+    code: "PVZ",
+    iconUrl: "https://cdn.discordapp.com/clan-badges/638039933457793025/d261f3783a1a045ab52d26745de32aa9.png?size=16",
+    discordUrl: "https://discord.gg/pvz"
+  },
+  {
+    name: "RLK",
+    code: "RLK",
+    iconUrl: "https://cdn.discordapp.com/clan-badges/1369312750789984449/bc2f7685eed9d27522595f510bb2da48.png?size=16",
+    discordUrl: "https://discord.gg/rlktag"
+  },
+  {
+    name: "XXX",
+    code: "XXX",
+    iconUrl: "https://cdn.discordapp.com/clan-badges/1369816934329356349/b1a70b12c9fc93280fd0f46b4365019c.png?size=16",
+    discordUrl: "https://discord.gg/zayy"
+  },
+  {
+    name: "FPS",
+    code: "FPS",
+    iconUrl: "https://cdn.discordapp.com/clan-badges/1181941995644661831/48d2557a1faf9a790dde3ad334e56efb.png?size=16",
+    discordUrl: "https://discord.gg/zju4nn"
+  },
+  {
     name: "CAT",
     code: "CAT",
     iconUrl: "https://cdn.discordapp.com/clan-badges/807537556002308147/8d61abb8b5da075befaff858861dba54.png?size=16",
